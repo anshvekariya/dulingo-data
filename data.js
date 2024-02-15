@@ -1,5 +1,3 @@
-// 20240215104815
-// https://raw.githubusercontent.com/anshvekariya/ansh/main/ansh.js
 
 [
     {
