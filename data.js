@@ -1,17 +1,19 @@
 
 [
     {
-      "userid": "1",
-      "user_name": "ansh vekariya",
-      "user_email": "ansh@gmail.com",
-      "user_address": "USA",
-      "user_status": "1"
+        "wordid": "1",
+        "english": "coffe",
+        "german": "kaffe",
     },
     {
-      "userid": "2",
-      "user_name": "aarav",
-      "user_email": "aarav@gmail.com",
-      "user_address": "USA",
-      "user_status": "2"
+        "wordid": "2",
+        "english": "thank you",
+        "german": "danke",
+    }
+    {
+        "wordid": "3",
+        "english": "water",
+        "german": "wasser",
+     
     }
   ]
