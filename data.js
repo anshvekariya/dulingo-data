@@ -3,17 +3,16 @@
     {
         "wordid": "1",
         "english": "coffe",
-        "german": "kaffe",
+        "german": "kaffe"
     },
     {
         "wordid": "2",
         "english": "thank you",
-        "german": "danke",
+        "german": "danke"
     }
     {
         "wordid": "3",
         "english": "water",
-        "german": "wasser",
-     
+        "german": "wasser"     
     }
   ]
