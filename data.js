@@ -9,7 +9,7 @@
         "wordid": "2",
         "english": "thank you",
         "german": "danke"
-    }
+    },
     {
         "wordid": "3",
         "english": "water",
