@@ -15,4 +15,9 @@
         "english": "water",
         "german": "wasser"     
     }
+    {
+        "wordid": "4",
+        "english": "plase",
+        "german": "bitte"     
+    }
   ]
