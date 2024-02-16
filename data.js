@@ -19,10 +19,5 @@
         "wordid": "4",
         "english": "plase",
         "german": "bitte"     
-    },
-    {
-        "wordid": "5",
-        "english": "from",
-        "german": "auf"     
     }
   ]
