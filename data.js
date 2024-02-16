@@ -24,5 +24,5 @@
         "wordid": "5",
         "english": "from",
         "german": "auf"     
-    },
+    }
   ]
