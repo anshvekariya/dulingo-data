@@ -17,7 +17,7 @@
     },
     {
         "wordid": "4",
-        "english": "plase hi",
+        "english": "plase",
         "german": "bitte"     
     }
   ]
