@@ -76,8 +76,8 @@
         "german": "tochter"
     },
     {
-        "wordid": "15",
-        "english": "daughter",
-        "german": "tochter"
+        "wordid": "16",
+        "english": "good",
+        "german": "gut"
     }
 ]
